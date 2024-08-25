@@ -53,3 +53,5 @@ message: "wrong credentails"
 
     }
 })
+
+export default router;
